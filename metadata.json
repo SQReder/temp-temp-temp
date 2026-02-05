@@ -1,5 +1,0 @@
-{
-  "name": "Event Interaction Tester",
-  "description": "A mobile UI prototype to test three different interaction models (Tinder-like, List, Carousel) for event discovery.",
-  "requestFramePermissions": []
-}
